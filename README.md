@@ -1,17 +1,17 @@
-# bemquery-package-boilerplate
+# bemquery-selector-converter
 
-[![Build Status](https://travis-ci.org/BEMQuery/bemquery-package-boilerplate.svg?branch=master)](https://travis-ci.org/BEMQuery/bemquery-package-boilerplate) [![Dependency Status](https://david-dm.org/BEMQuery/bemquery-package-boilerplate.svg)](https://david-dm.org/BEMQuery/bemquery-package-boilerplate) [![devDependency Status](https://david-dm.org/BEMQuery/bemquery-package-boilerplate/dev-status.svg)](https://david-dm.org/BEMQuery/bemquery-package-boilerplate#info=devDependencies)
+[![Build Status](https://travis-ci.org/BEMQuery/bemquery-selector-converter.svg?branch=master)](https://travis-ci.org/BEMQuery/bemquery-selector-converter) [![Dependency Status](https://david-dm.org/BEMQuery/bemquery-selector-converter.svg)](https://david-dm.org/BEMQuery/bemquery-selector-converter) [![devDependency Status](https://david-dm.org/BEMQuery/bemquery-selector-converter/dev-status.svg)](https://david-dm.org/BEMQuery/bemquery-selector-converter#info=devDependencies)
 
-Simple boilerplate
+Simple module for converting BEM selectors.
 
 ---
 
 ## Installation
 
 ```bash
-npm install bemquery-package-boilerplate [--save]
+npm install bemquery-selector-converter [--save]
 ```
 
 ## Documentation
 
-Docs are available at http://bemquery.github.io/bemquery-package-boilerplate
+Docs are available at http://bemquery.github.io/bemquery-selector-converter
