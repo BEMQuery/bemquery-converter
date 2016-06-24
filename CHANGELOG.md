@@ -1,6 +1,11 @@
 # bemquery-package-boilerplate Changelog
 
 ---
+# 0.1.3
+
+* Updated rollup configuration.
+* Updated dependencies.
+* Fixed wrong project name in documentation.
 
 ## 0.1.2
 
