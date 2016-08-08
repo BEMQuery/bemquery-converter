@@ -2,13 +2,18 @@
 
 ---
 
-# 0.1.3
+## 0.1.4
+
+* Updated boilerplate.
+* Fixed headings levels in changelog.
+
+## 0.1.3
 
 * Repaired changelog.
 * Updated CI configuration.
 * Updated dependencies.
 
-# 0.1.2
+## 0.1.2
 
 * Updated rollup configuration.
 * Updated dependencies.
