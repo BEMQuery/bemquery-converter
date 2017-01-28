@@ -1,6 +1,6 @@
 {
   "name": "bemquery-selector-converter",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "description": "Simple module for converting BEM selectors.",
   "main": "dist/bemquery-selector-converter.umd.js",
   "jsnext:main": "dist/bemquery-selector-converter.js",
